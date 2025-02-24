@@ -3,8 +3,8 @@
 ### Sou Fernanda , tenho 18 anos e sou estudante do segundo ano de Engenharia de Software-FIAP. Procuro uma oportunidade para atuaronde eu possa aprender e crescer como profissional.
 <div>
   <a href="https://beacons.ai/fernandamenon93">
-  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api?username=fernandamenon93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandamenon93&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandamenon93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandamenon93&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
 
